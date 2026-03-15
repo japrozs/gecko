@@ -206,7 +206,7 @@ ys = [0.0, 1.0, -1.0]
 n = MLP(1, [4, 4, 1])
 print(n(x) for x in xs)
 
-for k in range(100000):
+for k in range(1000):
     # forward pass
     ypred = [n(x) for x in xs]
     loss = sum([(yout - ygt) ** 2 for ygt, yout in zip(ys, ypred)])
