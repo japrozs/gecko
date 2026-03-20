@@ -8,7 +8,12 @@ block_size = 256
 max_iters = 5000
 eval_interval = 500
 learning_rate = 3e-4
-device = "cuda" if torch.cuda.is_available() else "cpu"
+# device = "cuda" if torch.cuda.is_available() else "cpu"
+device = (
+    "cuda"
+    if torch.cuda.is_available()
+    else "mps" if torch.backends.mps.is_available() else "cpu"
+)
 eval_iters = 200
 n_embd = 384  # num of embedding dimensions
 n_head = 6
@@ -190,6 +195,7 @@ class BigramLanguageModel(nn.Module):
 model = BigramLanguageModel()
 m = model.to(device)
 print(sum(p.numel() for p in m.parameters()) / 1e6, "M parameters")
+print(f"using device {device}")
 
 optimizer = torch.optim.AdamW(model.parameters(), lr=learning_rate)
 for iters in range(max_iters):
