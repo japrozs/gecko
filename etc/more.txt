@@ -1,0 +1,37 @@
+10.788929 M parameters
+using device mps
+step 0: train loss 4.2849, val loss 4.2823
+step 500: train loss 2.0014, val loss 2.0866
+step 1000: train loss 1.5971, val loss 1.7749
+step 1500: train loss 1.4385, val loss 1.6395
+step 2000: train loss 1.3415, val loss 1.5700
+step 2500: train loss 1.2794, val loss 1.5297
+step 3000: train loss 1.2267, val loss 1.5044
+step 3500: train loss 1.1827, val loss 1.4897
+step 4000: train loss 1.1452, val loss 1.4815
+step 4500: train loss 1.1066, val loss 1.4715
+wstep 4999: train loss 1.0761, val loss 1.4870
+
+ESCALUS:
+Enrop, changle there.
+
+First Watchman:
+O, why passing heavy friends of an Apolls
+That's full deep breat tears when tunes mays
+These babes.
+
+CAMILLO:
+Your lords:
+And please your mair answers and condemn:
+Are what a sword? I am build at on a face:
+But the devil tyrants have made power Sulands;
+A father than his own heart.
+
+BARAHAM:
+Tut, my liegeness from summer,
+And willing the earth of laws. Cominior
+Will you bot leave,
+Not our visitan at me.
+
+First Senator:
+We had he; and where he is do
