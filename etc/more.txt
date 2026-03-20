@@ -1,37 +1,334 @@
 10.788929 M parameters
 using device mps
 step 0: train loss 4.2849, val loss 4.2823
-step 500: train loss 2.0014, val loss 2.0866
-step 1000: train loss 1.5971, val loss 1.7749
-step 1500: train loss 1.4385, val loss 1.6395
-step 2000: train loss 1.3415, val loss 1.5700
-step 2500: train loss 1.2794, val loss 1.5297
-step 3000: train loss 1.2267, val loss 1.5044
-step 3500: train loss 1.1827, val loss 1.4897
-step 4000: train loss 1.1452, val loss 1.4815
-step 4500: train loss 1.1066, val loss 1.4715
-wstep 4999: train loss 1.0761, val loss 1.4870
+step 500: train loss 2.0014, val loss 2.0865
+step 1000: train loss 1.5976, val loss 1.7756
+step 1500: train loss 1.4382, val loss 1.6391
+step 2000: train loss 1.3415, val loss 1.5719
+step 2500: train loss 1.2788, val loss 1.5274
+step 3000: train loss 1.2253, val loss 1.5039
+step 3500: train loss 1.1821, val loss 1.4892
+step 4000: train loss 1.1449, val loss 1.4856
+step 4500: train loss 1.1069, val loss 1.4764
+step 4999: train loss 1.0764, val loss 1.4892
 
 ESCALUS:
-Enrop, changle there.
+Enone, change my life.
 
-First Watchman:
-O, why passing heavy friends of an Apolls
-That's full deep breat tears when tunes mays
-These babes.
+LARIANA:
+I do not for your cheer.
 
-CAMILLO:
-Your lords:
-And please your mair answers and condemn:
-Are what a sword? I am build at on a face:
-But the devil tyrants have made power Sulands;
-A father than his own heart.
+FRIAR LAURENCE:
+Is't all myself help.
 
-BARAHAM:
-Tut, my liegeness from summer,
-And willing the earth of laws. Cominior
-Will you bot leave,
-Not our visitan at me.
+CLARENCE:
+Are you unhappy; for shall were I had.
 
-First Senator:
-We had he; and where he is do
+ESCALUS:
+Nor did you shallow me reason, my lord:
+Peace, were what you again the Gloucester,
+And you have quite me so the friends that hap
+These we have, happy his own somewhat long. Thou this sir,
+Forewere for that thou lost not hour heard,
+A slip as stick as life that we had storn.
+
+HENRY BOLINGBROKE:
+I required the best; and where we wild take
+Not pling to favour or kings, were to rush:
+Thou art solut and most body, and swelling is
+A poor ols of what shames you: I do but below them;
+I mean appreYor trusty you sup so fear of;
+And take my breagutiful last report myselary.
+
+QUEEN:
+Will he then? Veril, then, sir? Fie, and thou pape,
+And to good. By this lead gone, on it.
+I think thought thou art more passing me to this powerful,
+Than he would not again. By  thus; tell me away;
+And, such a fault that I now shall flower you?
+Ah, money, to Juliet, thou, a patient,
+One things of both to shake thee, friar.
+This Stafford's head and only upon thy law.
+If will you all send us unto thus:
+Ah, let's he see a woman's honesty to ma!
+
+MARCIUS:
+Thou dost dry, so, see them to hear a tlempt.
+Surey how the has? let his hand; why, as't soft me hap
+To them in the rand of great scourges on the cutse.
+
+MARCIUS:
+Farewell, go: no methinkes.
+
+Servingman:
+I am too sweet unsheap before the good of we.
+There's a sudden should have less him no heard him rens;
+And I am bolder, my Gaunt, thou art king; through'd
+And here be my glory John any son-shine
+Than one hear at Satihorous! wife, whence tackling?
+Thy statester of this own, to lay it wrong mind!
+Therefore, Mowbrary, what thou rust be fliery?
+And was for kings? but condition, boy,
+Stepp'd your enemy, ere there more:
+Clown I is so that I, more come than out when?
+Shall I see thee so fall villain? shall welcome.
+
+FRIAR LAURENCE:
+Nay, not a friend and nurselant.
+Art thou wildo wast for the feajusty forfeit?
+No, amen, tell must you to know no truth-tige.
+
+CAPULET:
+Hold heart? What, Friar:
+Speak bloody: senaters sit not your widowes son
+To see heaven the sour company duke.
+
+ROMEO:
+O Cupitol! True! liberts! O prepare;
+Here left, here it pass
+We shall wealth we did wish hold that!
+There's greatest orden.
+
+FRIAR LAURENCE:
+So remaim hence! Now deban with slows;
+When where she brings she have sold on the Duke of,
+And Master Romeo's blood to an full denthre,
+Who of the earth of these fretting men.
+
+FRIAR LAURENCE:
+Juse not succeed arrive a transport cource,
+For hath the great York or Edward gold do thy death,
+Never was seen thee flourish thee loude with tear;
+But thou bring it is well drop:
+Commedness could thy say I do go you;
+The glass call for why somediate;
+For we mean no more returned of more be too.
+Against courtesy and blisson,
+Crying allowing my child coats-stators!
+
+ABPSON:
+That sit fear of God beaution grace, let him us congeal
+No low to assist Cry bend the bids the ear.
+
+JULIET:
+Peace, I live no virtue:
+Which for the proverto reign call ging thee;
+For I'll hear off, a pecites war,
+A blow many coward, by my grief a maid
+Obe-houses before.
+
+FLORIZEL:
+Plain them.
+
+VOLUMNIA:
+Stray, no further of mine; I vine we show
+may be so; man to be sight we bold upon;
+Yet, do not stiffe. Pray, she should not took here to kill
+The maids.
+
+LARTIUS:
+His good name, face has an emight die as beats;
+Cury all a party preparent, adding them duke
+By spent all thyself. Tybalt men, hencefore,
+Lord Argelo, 'Derby your wife and answer message
+And not call This laughter.
+
+SICINIUS:
+He hath some worth than my last action.
+This coly will poor glad en with window
+That made live, in this casting,
+Twice in the sin's prevaity,
+He the new call'd a wit in bowlock or enderch.
+
+ABRAKE:
+I'll not the god, sir;
+Or, my grave, good regard, which they have not singut
+For they succession will put us to commend their brats.
+Now Pots now, to all it deep to thy place of act
+Tell thee, Petry, good save the waters,
+And therefore they was sent to the fuit
+Fruildhom who; weel one themselves? I say my places.
+What it canst thou? as why Englishmany
+By this conexition must want thy country's bone?
+For let me six thy uncles was thy lengther'd
+Upon riward fortune's due close. The rose them in my clost,
+And all the eyet for the king. Thou dost murder him?
+
+JULIET:
+By telligences him while lies that hath grown too:
+A thousand senten, before these of many
+Have scorn them, from here well know their sover
+And sleep his hird weak-speak, all this children
+The holpy day of thee night;
+Canstle, how news with 'dropp'd them;' shall bury
+Dis often for comfort of his dull-butcherous say,
+That, these wisdom with my ements, coldrin.
+Should be have'd fought wontery on thy husband.
+Cousin, we repeak and wings wreck'd thee my grace.
+Nay, how the any mantle, why hath we been
+My right brong to peace thy lurthron. Come, come, cowary;
+What whence thou, callarry Romeo: come, you go.
+Lord Mayory quean before him. But, come,
+In haste, to-day, it out there's come.
+I'll not deliver us: and that words
+By sudden is sweet boys as muchless cur differses;
+For just and twell is in lease have in blood
+Upperish'd, Singmishing with us, for hundst the happy.
+I'll most perforce the man's word
+Have prove the made me still: and coats to me signs
+To noble with him our grace.
+
+HASTINGS:
+I am am I confidence plead to again.
+
+NORGZET:
+His lawful hate, I denoyan my son?
+
+KING EDWARD I:
+To Hoverton against their eyes of that:
+But cheris I came not by the sky shall wear the fool,
+But his swellable anchor'd to fourtune thy lord.
+Now she we under to suffer the fought
+As the Tuke hearth by us, He's grown?
+
+GLOUCESTER:
+The dukest that 'twere better the war,
+That Clifford Richard be tempted by the leg.
+What is Norfolk Richard Grey?
+
+BUCKINGHAM:
+Say, that at off of this beastling Edwer Hereford's,
+The Earl on such a tamorous writtend in the ectain's
+Dead th sword stored place of twelve meteor wits build the
+substiful taught. Officers their tongues are the grieves,
+loves before they have double seen their bleeds;
+More high nobly being the fothwith seateths jointy? They
+Think to contagion! Montaguefician, go you
+Cry you shall in this destrange on this veice?
+And thou, the swords of deaf, all the death out--
+
+CAllown:
+It is the mother, Paris the day I wash
+That I am not most ride that flatter bore my bonds,
+And change thee when they should not be seen:
+Some preposed; and how thou gavest further moans
+Drumst Warwick with Franced blandays.
+The king of gat? what force Clifford mantrer,
+They like sill sear of ineversal stars my treason?
+And  hears for our earth hath given to grow
+For answer our ruins: Now perfect these gry:
+The queen; then shall we clain me so.
+
+CLARENCE:
+Hear't is a sight and that way; there she wood,
+And thus fr perform'd her that hold seems.
+
+BARDIND:
+Now, by His countrymen, by the watcher of York,
+And yet, shalt he would not be our rid is four thrust?
+
+RICHARD:
+Ay, o' Clarence; why, you sit, tell us.
+Ah:
+Thou art too a deadful, welcome say thee, Bosomer;
+Cartly, we with a prince wife, die it for give:
+Hie thee till your royal, if show I should
+fury of sprits tending wormserves more veils on the
+emservius of spakewer and is as those tender
+Leal me without revenge more with 'enown wonter till
+no tought to suchare which commonsit show
+Must shiely here, betray not.
+So, to urge you are mothers, now honds
+This did cnown will but the equal have gives't
+Tower on of an head act on his face,
+How tha peer we cleep to atal,
+And take the good, gold mourn not. Steal, vile mercy,
+I'll be glad but a gentle again. Which not I be,
+The sweet may be forced me and meet the loss where,
+Just on was. Nay, but not so hast no witned;
+Thereat Paris in good orses, while pay
+The may men hour gonest me as the wus; I am both:
+I say: say thy stabbest then that thou sway
+I would not suffled as France, say not it off,
+Thou part book upon my horses since,
+And burned away in the paint allso with that ever twest.
+
+CAPULET:
+Let us do the cause to the city;
+I say the wixt overse, this piercing honour,
+Or I am for one so too better than seas.
+Presumeful persufver'd both we do one delay:
+Tell us go what I do but take the no day,
+Unsolute dares from the one service, whence times
+True in banished rapted pity. And, know
+Thyself were the news stadow, dream's
+Unly thought greet of thy this hearty:
+Miston'd far thou ever mean is so much valour.
+
+DUKE OF YORK:
+Cut with Clarence! O Tybalt!
+
+DUCHESS OF AUSS:
+Heave me the desting fought of all but sweet sights,
+It were his country's full say when you has writting
+Let's leen no smother fearful in melance.
+
+DUKE OF AUMERLE:
+The gageder.
+See husbandful friends; who is leg him, spoth could,
+But let them home.
+
+LORDST:
+Good morrow, good my lord, marry lords,
+I give my part to thee to mornow,
+I shall not stwer to thee home. Let us all.
+Come, sistiave me, in the break torment
+May from the life loods. We cannot pluck no vice
+That should have bred leave the him of you;
+And who have show'd to life anon alliar,
+Such a sing:ister shortly corfeit off close,
+Have then in banish'd upon the idle of the king,
+The blove that livew mothers and dailine that loud
+Slow the place to his folly slyyonday!
+
+SAMPSON:
+Faith what never no pulchre,
+We mayor at a Capitol. He lies
+For thy knee, forbid.
+
+PRIONTER:
+Sir, withdrews thy wife, as a thief,
+I would find-accasting fault were her by those;
+It were to confort thee.
+
+PAULINA:
+He shall be with flatter.
+
+POLIXENES:
+Now now Romeo's body;
+In the dearless so beast thereon:
+I dares well redeem me.
+
+LEOND:
+O, see how you the lie.
+'Tis found tomock his blood
+And speed the tagation of AmeBlandy.
+
+First Huntsman:
+Intescastage his crowns shall.
+
+SCLORIOLES:
+O, be your grace!
+
+LAD
+
+LEONTES:
+
+CATESBULLO:
+I hone  some at Laurence.
+
+GREEST:
+What there were you with past that prince at once;
+You had, not speak the sun as speech still,
+As both amaze supplieves, shall forbear
+The maiation of Hereford, how drops in Oxford hi
